@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.parksinyoung.optionmenutest.MainActivity"
     android:orientation="vertical"
+    android:id="@+id/linear"
     >
 
     <TextView
